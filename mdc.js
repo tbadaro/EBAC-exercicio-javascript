@@ -7,4 +7,4 @@ function mdc(a, b){
     }
     console.log(a)
 }
-mdc(12, 8)
+mdc(12, 18)
