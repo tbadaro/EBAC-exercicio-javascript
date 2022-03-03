@@ -5,6 +5,8 @@ function mdc(a, b){
         a = b; 
         b = resto;              
     }
-    console.log(a)
+    return a
+    //console.log(a)
 }
-mdc(12, 18)
+//mdc(12, 18)
+module.exports = { mdc }

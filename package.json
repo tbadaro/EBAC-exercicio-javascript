@@ -1,0 +1,22 @@
+{
+  "name": "exercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maior_menor.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbadaro/EBAC-exercicio-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbadaro/EBAC-exercicio-javascript/issues"
+  },
+  "homepage": "https://github.com/tbadaro/EBAC-exercicio-javascript#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
