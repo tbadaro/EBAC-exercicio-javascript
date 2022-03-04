@@ -1,4 +1,4 @@
-const { somarMultiplosAteLimite } = require('./soma_multiplos')
+const { somarMultiplosAteLimite } = require('../codigos/soma_multiplos')
 describe('Soma os múltiplos de dois números até o valor limite', () => {
     it('Soma multiplos', () => {
         expect(somarMultiplosAteLimite(5,7,1000)).toBe(171571)

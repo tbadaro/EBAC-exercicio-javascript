@@ -1,4 +1,4 @@
-const { mdc } = require('./mdc')
+const { mdc } = require('../codigos/mdc')
 
 describe('Teste da unidade mdc', () => {
     it('MDC', () => {

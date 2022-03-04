@@ -1,4 +1,4 @@
-const { maiorMenor } = require("./maior_menor");
+const { maiorMenor } = require("../codigos/maior_menor");
 
 describe('Seleciona o menor e o maior valor de um array', () => {
     it('Maior e menor valor', () => {
